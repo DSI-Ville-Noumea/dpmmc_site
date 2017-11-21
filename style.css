@@ -28,22 +28,16 @@
 	color: white;
 }
 
-.demarrer-appli {
-	width: 100%;
-	padding-right: 100px;
-	padding-left: 100px;
-}
-
-.bouton-demarrer-appli {
-	width: 20% !important;
-}
-
 .col-xs-7 {
     width: 100%;
 }
 
 .navbar-form .input-group {
     width: 250px;
+}
+
+.login-screen {
+    max-width: 870px;
 }
 
 .footer-title {
