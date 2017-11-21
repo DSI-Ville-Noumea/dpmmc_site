@@ -1,0 +1,55 @@
+.container {
+	width: 100% !important;
+	padding-right: 0px;
+	padding-left: 0px;
+}
+
+.fond-DPMMC {
+	background: url('img/ford_police_interceptor-wide.jpg');
+	height: 1200px;
+	margin-top: 50px;
+}
+
+.box-centrer {
+	margin: auto;
+	width: 20%;
+}
+
+.box-centrer-2 {
+	margin: auto;
+	width: 35%;
+}
+
+.background-clair {
+	background-color: #eff0f2;
+}
+
+.texte-blanc {
+	color: white;
+}
+
+.demarrer-appli {
+	width: 100%;
+	padding-right: 100px;
+	padding-left: 100px;
+}
+
+.bouton-demarrer-appli {
+	width: 20% !important;
+}
+
+.col-xs-7 {
+    width: 100%;
+}
+
+.navbar-form .input-group {
+    width: 250px;
+}
+
+.footer-title {
+	font-size: 14px;
+}
+
+footer {
+	background-color: #333 !important;
+}
